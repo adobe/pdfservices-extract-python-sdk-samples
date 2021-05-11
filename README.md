@@ -51,7 +51,7 @@ The code itself is in the ```extractpdf``` folder. Test files used by the sample
 child folder under the project root directory to store their results.
 
 ### Extract Elements Information and Renditions from a PDF File
-These samples illustrate how to extract PDF elements from PDF.
+These samples illustrate how to extract PDF elements from PDF Document.
 
 #### Extract Text Elements
 
