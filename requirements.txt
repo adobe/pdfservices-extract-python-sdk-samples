@@ -1,1 +1,1 @@
-pdfservices-extract-sdk==1.0.0b1
+pdfservices-sdk==2.2.0
